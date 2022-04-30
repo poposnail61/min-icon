@@ -1,7 +1,7 @@
 **🔗 [Min Icon 다운로드](https://github.com/poposnail61/MinIcon/releases/download/v1.0/MinIcon.zip)**
 
-**🔗 [Icon 목록보기](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**\
-
+**🔗 [Icon 목록보기](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**
+<br><br>
 
 
 ## 개요
