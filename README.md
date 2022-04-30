@@ -14,61 +14,35 @@ Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. �
 
 css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변폰트를 사용할 경우 설정된 6가지 굵기 이외에 원하는 굵기로 변경하여 사용 가능합니다.
 
-- **Min Icon Round(가변폰트) 사용하기**
+- **css파일 적용하기**
     
-    css파일 적용하기
-    
-    ```html
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-round-vf.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
-    ```
-    
-    icon 적용하기
-    
-    ```css
-    <i class="iFavorite"></i>
-    ```
-    
-- **Min Icon Round 사용하기**
-    
-    css파일 적용하기
+    원하는 종류의 폰트를 선택하여 붙여넣습니다.
     
     ```html
+    <!-- Min Icon Round 사용하기 -->
     <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-round.css">
     <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
     ```
     
-    icon 적용하기
-    
-    ```css
-    <i class="iFavorite"></i>
+    ```html
+    <!-- Min Icon Round(가변폰트) 사용하기 -->
+    <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-round-vf.css">
+    <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
     ```
     
-- **Min Icon Square(가변폰트) 사용하기**
-    
-    css파일 적용하기
+    ```html
+    <!-- Min Icon Square 사용하기 -->
+    <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-square.css">
+    <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
+    ```
     
     ```html
+    <!-- Min Icon Square(가변폰트) 사용하기 -->
     <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-square-vf.css">
     <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
     ```
     
-    icon 적용하기
-    
-    ```css
-    <i class="iFavorite"></i>
-    ```
-    
-- **Min Icon Square 사용하기**
-    
-    css파일 적용하기
-    
-    ```html
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-square-vf.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
-    ```
-    
-    icon 적용하기
+- **icon 적용하기**
     
     ```css
     <i class="iFavorite"></i>
