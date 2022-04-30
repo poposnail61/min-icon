@@ -10,6 +10,7 @@ Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. �
 ## 폰트 사용하기
 
 css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변폰트를 사용할 경우 설정된 6가지 굵기 이외에 원하는 굵기로 변경하여 사용 가능합니다.
+<br><br>
 
 - **css파일 적용하기**
     
@@ -38,15 +39,13 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-square-vf.css">
     <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
     ```
-    
-<br><br><br>
+    <br><br>
 - **icon 적용하기**
     
     ```css
     <i class="iFavorite"></i>
     ```
-
-<br><br><br>
+    <br><br>
 - **다른 스타일 적용하기**
     
     
