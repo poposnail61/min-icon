@@ -1,4 +1,4 @@
-### Min Icon
+# Min Icon
 
 **🔗 [Min Icon 다운로드](https://github.com/poposnail61/MinIcon/releases/download/v1.0/MinIcon.zip)**
 
