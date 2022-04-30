@@ -5,9 +5,7 @@ Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. �
 - 총 124가지 아이콘
 - 2가지 폰트, 2가지 스타일, 6개의 굵기 지원
 - 가변폰트 지원
-
-
-
+<br><br><br>
 
 ## 폰트 사용하기
 
@@ -41,12 +39,14 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
     ```
     
+<br><br><br>
 - **icon 적용하기**
     
     ```css
     <i class="iFavorite"></i>
     ```
-    
+
+<br><br><br>
 - **다른 스타일 적용하기**
     
     
