@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: 'Min Icon Round';
+    font-weight: 900;
+    src: url('../fonts/static/woff2/MinIconRound-Black.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinIconRound-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Icon Round';
+    font-weight: 700;
+    src: url('../fonts/static/woff2/MinIconRound-Bold.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinIconRound-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Icon Round';
+    font-weight: 550;
+    src: url('../fonts/static/woff2/MinIconRound-Medium.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinIconRound-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Icon Round';
+    font-weight: 400;
+    src: url('../fonts/static/woff2/MinIconRound-Regular.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinIconRound-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Icon Round';
+    font-weight: 250;
+    src: url('../fonts/static/woff2/MinIconRound-Light.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinIconRound-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Icon Round';
+    font-weight: 100;
+    src: url('../fonts/static/woff2/MinIconRound-Thin.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinIconRound-Thin.ttf') format('truetype');
+}
+
+
+
+
+i {
+  font-family: 'Min Icon Round' !important;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+  font-style: normal;
+  vertical-align: top;
+  -webkit-font-smoothing: antialiased;
+}
