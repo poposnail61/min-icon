@@ -1,9 +1,15 @@
-# Min Icon
+
+<img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
+
+
 
 **🔗 [Min Icon Download](https://github.com/poposnail61/MinIcon/releases/download/v1.0/MinIcon.zip)**
 
 **🔗 [Icon List View](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**
+
+**🔗 [Figma Commuity](https://www.figma.com/community/file/1102264404570708098/Min-Icon---Variable-icon-font)**
 <br><br><br>
+
 
 
 ## 개요
