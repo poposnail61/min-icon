@@ -37,22 +37,11 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     ```
     
     ```html
-    <!-- Min Icon Round(가변폰트) 사용하기 -->
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-round-vf.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
-    ```
-    
-    ```html
     <!-- Min Icon Square 사용하기 -->
     <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-square.css">
     <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
     ```
     
-    ```html
-    <!-- Min Icon Square(가변폰트) 사용하기 -->
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/min-icon-square-vf.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/css/icon.css">
-    ```
     <br>
 - **icon 적용하기**
 
