@@ -59,13 +59,13 @@ Load the css file and apply the icon font for use. If you use variable fonts, yo
     
     | class | explanation | code |
     | --- | --- | --- |
-    | .fill | 채워진 스타일의 아이콘 | ```css <i class="iFavorite fill"></i> ``` |
-    | .spin | 회전 애니메이션 | <i class="iFavorite spin"></i> |
-    | .iThin | 아주 얇은 아이콘 | <i class="iFavorite iThin"></i> |
-    | .iLight | 얇은 아이콘 | <i class="iFavorite iLight"></i> |
-    | .iRegular | 보통 아이콘 | <i class="iFavorite iRegular"></i> |
-    | .iMedium | 중간 아이콘 | <i class="iFavorite iMedium"></i> |
-    | .iBold | 굵은 아이콘 | <i class="iFavorite iBold"></i> |
-    | .iBlack | 아주 긁은 아이콘 | <i class="iFavorite iBlack"></i> |
+    | .fill | 채워진 스타일의 아이콘 | ``` <i class="iFavorite fill"></i> ``` |
+    | .spin | 회전 애니메이션 | ``` <i class="iFavorite spin"></i> ``` |
+    | .iThin | 아주 얇은 아이콘 | ``` <i class="iFavorite iThin"></i> ``` |
+    | .iLight | 얇은 아이콘 | ``` <i class="iFavorite iLight"></i> ``` |
+    | .iRegular | 보통 아이콘 | ``` <i class="iFavorite iRegular"></i> ``` |
+    | .iMedium | 중간 아이콘 | ``` <i class="iFavorite iMedium"></i> ``` |
+    | .iBold | 굵은 아이콘 | ``` <i class="iFavorite iBold"></i> ``` |
+    | .iBlack | 아주 긁은 아이콘 | ``` <i class="iFavorite iBlack"></i> ``` |
     
     <br><br>
