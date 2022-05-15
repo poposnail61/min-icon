@@ -1,5 +1,5 @@
 
-/* 아이콘 스타일 변경 */
+/* Icon Style */
 i.fill {font-feature-settings: 'ss09' on;}
 i.spin {
   animation-name: spin;
@@ -18,7 +18,7 @@ i.spin {
 }
 
 
-/* 아이콘 굵기 */
+/* Icon Weight */
 i.iThin {font-weight: 100;}
 i.iLight {font-weight: 250;}
 i.iRegular {font-weight: 400;}
@@ -27,7 +27,7 @@ i.iBold {font-weight: 700;}
 i.iBlack {font-weight: 900;}
 
 
-/* 아이콘 */
+/* Icon */
 i.iError::before {vertical-align: top; content: '\E000';}
 i.iFastForward::before {vertical-align: top; content: '\E01F';}
 i.iFastRewind::before {vertical-align: top; content: '\E020';}
@@ -152,3 +152,37 @@ i.iShoppingBag::before {vertical-align: top; content: '\F1CC';}
 i.iOpenInFull::before {vertical-align: top; content: '\F1CE';}
 i.iCloseFullscreen::before {vertical-align: top; content: '\F1CF';}
 i.iFaceId::before {vertical-align: top; content: '\F1ED';}
+i.iBackspace::before {vertical-align: top; content: '\E14A';}
+i.iBluetooth::before {vertical-align: top; content: '\E1A7';}
+i.iCategory::before {vertical-align: top; content: '\E574';}
+i.iLogin::before {vertical-align: top; content: '\EA77';}
+i.iLoout::before {vertical-align: top; content: '\E9BA';}
+i.iRssFeed::before {vertical-align: top; content: '\E0E5';}
+i.iSentimentSatisfied::before {vertical-align: top; content: '\E813';}
+i.iVisibility::before {vertical-align: top; content: '\E8F4';}
+i.iVisibilityOff::before {vertical-align: top; content: '\E8F5';}
+i.iWifi::before {vertical-align: top; content: '\E63E';}
+
+
+
+/* Brand Icon */
+i.iBrandApple::before {vertical-align: top; content: '\F8FF';}
+i.iBrandDribbble::before {vertical-align: top; content: '\F8EF';}
+i.iBrandFacebook::before {vertical-align: top; content: '\F8FC';}
+i.iBrandFigma::before {vertical-align: top; content: '\F8ED';}
+i.iBrandGithub::before {vertical-align: top; content: '\F8F4';}
+i.iBrandGoogle::before {vertical-align: top; content: '\F8FB';}
+i.iBrandInstagram::before {vertical-align: top; content: '\F8F9';}
+i.iBrandKakao::before {vertical-align: top; content: '\F8FE';}
+i.iBrandLinkedin::before {vertical-align: top; content: '\F8F7';}
+i.iBrandMedium::before {vertical-align: top; content: '\F8F3';}
+i.iBrandMeta::before {vertical-align: top; content: '\F8EC';}
+i.iBrandNaver::before {vertical-align: top; content: '\F8FD';}
+i.iBrandNotion::before {vertical-align: top; content: '\F8F8';}
+i.iBrandPinterest::before {vertical-align: top; content: '\F8F6';}
+i.iBrandSkype::before {vertical-align: top; content: '\F8F2';}
+i.iBrandTiktok::before {vertical-align: top; content: '\F8F0';}
+i.iBrandTumblr::before {vertical-align: top; content: '\F8F1';}
+i.iBrandTwitch::before {vertical-align: top; content: '\F8EE';}
+i.iBrandTwitter::before {vertical-align: top; content: '\F8FA';}
+i.iBrandYoutube::before {vertical-align: top; content: '\F8F5';}
