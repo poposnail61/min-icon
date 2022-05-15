@@ -14,7 +14,7 @@
 
 ## Overview
 
-Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. 가변 폰트를 지원하여 원하는 두께의 아이콘으로 커스텀하여 사용할 수 있습니다.
+Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. 가변 폰트를 지원하여 원하는 두께의 아이콘으로 커스텀하여 사용할 수 있습니다.<br>
 Min Icon is an icon font with various thicknesses and styles. It supports variable fonts so you can customize them with icons of the desired weights.
 
 - 134 icons, 20 brand icon
@@ -24,14 +24,13 @@ Min Icon is an icon font with various thicknesses and styles. It supports variab
 
 ## How to Use?
 
-css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변폰트를 사용할 경우 설정된 6가지 굵기 이외에 원하는 굵기로 변경하여 사용 가능합니다.
-
+css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변폰트를 사용할 경우 설정된 6가지 굵기 이외에 원하는 굵기로 변경하여 사용 가능합니다.<br>
 Load the css file and apply the icon font for use. If you use variable fonts, you can change them to the desired thickness in addition to the six weight settings.
 <br><br>
 
 - **css file setting**
     
-    원하는 종류의 폰트를 선택하여 붙여넣습니다.
+    원하는 종류의 폰트를 선택하여 붙여넣습니다.<br>
     Select and paste the desired font type.
 
     ```html
