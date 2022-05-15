@@ -59,7 +59,7 @@ Load the css file and apply the icon font for use. If you use variable fonts, yo
     
     | class | explanation | code |
     | --- | --- | --- |
-    | .fill | 채워진 스타일의 아이콘 | "<i class="iFavorite fill"></i>" |
+    | .fill | 채워진 스타일의 아이콘 | ```css <i class="iFavorite fill"></i> ``` |
     | .spin | 회전 애니메이션 | <i class="iFavorite spin"></i> |
     | .iThin | 아주 얇은 아이콘 | <i class="iFavorite iThin"></i> |
     | .iLight | 얇은 아이콘 | <i class="iFavorite iLight"></i> |
