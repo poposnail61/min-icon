@@ -51,6 +51,7 @@ Load the css file and apply the icon font for use. If you use variable fonts, yo
     ```css
     <i class="iFavorite"></i>
     ```
+    **🔗 [Icon List View](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**
     
     <br>
 - **Apply different styles**
