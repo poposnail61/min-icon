@@ -162,7 +162,32 @@ i.iSentimentSatisfied::before {vertical-align: top; content: '\E813';}
 i.iVisibility::before {vertical-align: top; content: '\E8F4';}
 i.iVisibilityOff::before {vertical-align: top; content: '\E8F5';}
 i.iWifi::before {vertical-align: top; content: '\E63E';}
-
+i.iStart::before {vertical-align: top; content: '\E089';}
+i.iLocationOff::before {vertical-align: top; content: '\E0C7';}
+i.iCheckLocation::before {vertical-align: top; content: '\E177';}
+i.iMyLocationOff::before {vertical-align: top; content: '\E1B6';}
+i.iAddReaction::before {vertical-align: top; content: '\E1D3';}
+i.iPublish::before {vertical-align: top; content: '\E255';}
+i.iSpaceBar::before {vertical-align: top; content: '\E256';}
+i.iKeyboardReturn::before {vertical-align: top; content: '\E31B';}
+i.iKeyboardTab::before {vertical-align: top; content: '\E31C';}
+i.iMap::before {vertical-align: top; content: '\E55B';}
+i.iMyLocation::before {vertical-align: top; content: '\E55C';}
+i.iNavigation::before {vertical-align: top; content: '\E55D';}
+i.iLocation::before {vertical-align: top; content: '\E55E';}
+i.iAddLocation::before {vertical-align: top; content: '\E567';}
+i.iNearMe::before {vertical-align: top; content: '\E569';}
+i.iExplore::before {vertical-align: top; content: '\E87A';}
+i.iDeleteForever::before {vertical-align: top; content: '\E92B';}
+i.iExploreOff::before {vertical-align: top; content: '\E9A8';}
+i.iKeyboardControlKey::before {vertical-align: top; content: '\EAE6';}
+i.iKeyboardCommandKey::before {vertical-align: top; content: '\EAE7';}
+i.iKeyboardOptionkeyKey::before {vertical-align: top; content: '\EAE8';}
+i.iThickArrowRight::before {vertical-align: top; content: '\F1DF';}
+i.iThickArrowUp::before {vertical-align: top; content: '\F1E0';}
+i.iThickArrowDown::before {vertical-align: top; content: '\F1E3';}
+i.iThickArrowLeft::before {vertical-align: top; content: '\F1E6';}
+i.iNearMeOff::before {vertical-align: top; content: '\F1EF';}
 
 
 /* Brand Icon */
@@ -186,3 +211,15 @@ i.iBrandTumblr::before {vertical-align: top; content: '\F8F1';}
 i.iBrandTwitch::before {vertical-align: top; content: '\F8EE';}
 i.iBrandTwitter::before {vertical-align: top; content: '\F8FA';}
 i.iBrandYoutube::before {vertical-align: top; content: '\F8F5';}
+i.iBrandPlaystore::before {vertical-align: top; content: '\F8E0';}
+i.iBrandAppstore::before {vertical-align: top; content: '\F8E1';}
+i.iBrandSlack::before {vertical-align: top; content: '\F8E2';}
+i.iBrandSnapchat::before {vertical-align: top; content: '\F8E3';}
+i.iBrandMessenger::before {vertical-align: top; content: '\F8E4';}
+i.iBrandAmazon::before {vertical-align: top; content: '\F8E5';}
+i.iBrandBehance::before {vertical-align: top; content: '\F8E6';}
+i.iBrandAndroid::before {vertical-align: top; content: '\F8E7';}
+i.iBrandMicrosoft::before {vertical-align: top; content: '\F8E8';}
+i.iBrandDiscord::before {vertical-align: top; content: '\F8E9';}
+i.iBrandSpotify::before {vertical-align: top; content: '\F8EA';}
+i.iBrandReddit::before {vertical-align: top; content: '\F8EB';}
