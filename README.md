@@ -3,7 +3,7 @@
 
 
 
-**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v1.1/min-icon.zip)**
+**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v1.1.1/min-icon.zip)**
 
 **🔗 [Icon List View](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**
 
