@@ -180,9 +180,9 @@ i.iNearMe::before {vertical-align: top; content: '\E569';}
 i.iExplore::before {vertical-align: top; content: '\E87A';}
 i.iDeleteForever::before {vertical-align: top; content: '\E92B';}
 i.iExploreOff::before {vertical-align: top; content: '\E9A8';}
-i.iKeyboardControlKey::before {vertical-align: top; content: '\EAE6';}
-i.iKeyboardCommandKey::before {vertical-align: top; content: '\EAE7';}
-i.iKeyboardOptionkeyKey::before {vertical-align: top; content: '\EAE8';}
+i.iKeyboardControl::before {vertical-align: top; content: '\EAE6';}
+i.iKeyboardCommand::before {vertical-align: top; content: '\EAE7';}
+i.iKeyboardOption::before {vertical-align: top; content: '\EAE8';}
 i.iThickArrowRight::before {vertical-align: top; content: '\F1DF';}
 i.iThickArrowUp::before {vertical-align: top; content: '\F1E0';}
 i.iThickArrowDown::before {vertical-align: top; content: '\F1E3';}
