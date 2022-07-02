@@ -65,10 +65,13 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     | .fill | Icons of filled styles | ``` <i class="iFavorite fill"></i> ``` |
     | .spin | Rotational animation | ``` <i class="iFavorite spin"></i> ``` |
     | .iThin | Thin weight icon | ``` <i class="iFavorite iThin"></i> ``` |
+    | .iExtraLight | Light weight icon | ``` <i class="iFavorite iExtraLight"></i> ``` |
     | .iLight | Light weight icon | ``` <i class="iFavorite iLight"></i> ``` |
     | .iRegular | Regular weight icon | ``` <i class="iFavorite iRegular"></i> ``` |
     | .iMedium | Medium weight icon | ``` <i class="iFavorite iMedium"></i> ``` |
+    | .iSemiBold | Bold weight icon | ``` <i class="iFavorite iSemiBold"></i> ``` |
     | .iBold | Bold weight icon | ``` <i class="iFavorite iBold"></i> ``` |
+    | .iExtraBold | Bold weight icon | ``` <i class="iFavorite iExtraBold"></i> ``` |
     | .iBlack | Black weight icon | ``` <i class="iFavorite iBlack"></i> ``` |
     
     <br><br>
