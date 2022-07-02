@@ -20,10 +20,13 @@ i.spin {
 
 /* Icon Weight */
 i.iThin {font-weight: 100;}
-i.iLight {font-weight: 250;}
+i.iExtraLight {font-weight: 200;}
+i.iLight {font-weight: 300;}
 i.iRegular {font-weight: 400;}
-i.iMedium {font-weight: 550;}
+i.iMedium {font-weight: 500;}
+i.iSemiBold {font-weight: 600;}
 i.iBold {font-weight: 700;}
+i.iExtraBold {font-weight: 800;}
 i.iBlack {font-weight: 900;}
 
 
