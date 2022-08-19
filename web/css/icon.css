@@ -1,6 +1,7 @@
-
 /* Icon Style */
-i.fill {font-feature-settings: 'ss09' on;}
+i.fill {
+  font-feature-settings: "ss09" on;
+}
 i.spin {
   animation-name: spin;
   animation-duration: 2s;
@@ -9,220 +10,940 @@ i.spin {
 }
 
 @keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
-
 /* Icon Weight */
-i.iThin {font-weight: 100;}
-i.iExtraLight {font-weight: 200;}
-i.iLight {font-weight: 300;}
-i.iRegular {font-weight: 400;}
-i.iMedium {font-weight: 500;}
-i.iSemiBold {font-weight: 600;}
-i.iBold {font-weight: 700;}
-i.iExtraBold {font-weight: 800;}
-i.iBlack {font-weight: 900;}
-
+i.iThin {
+  font-weight: 100;
+}
+i.iExtraLight {
+  font-weight: 200;
+}
+i.iLight {
+  font-weight: 300;
+}
+i.iRegular {
+  font-weight: 400;
+}
+i.iMedium {
+  font-weight: 500;
+}
+i.iSemiBold {
+  font-weight: 600;
+}
+i.iBold {
+  font-weight: 700;
+}
+i.iExtraBold {
+  font-weight: 800;
+}
+i.iBlack {
+  font-weight: 900;
+}
 
 /* Icon */
-i.iError::before {vertical-align: top; content: '\E000';}
-i.iFastForward::before {vertical-align: top; content: '\E01F';}
-i.iFastRewind::before {vertical-align: top; content: '\E020';}
-i.iPause::before {vertical-align: top; content: '\E034';}
-i.iPlayArrow::before {vertical-align: top; content: '\E037';}
-i.iSkipNext::before {vertical-align: top; content: '\E044';}
-i.iSkipPrevious::before {vertical-align: top; content: '\E045';}
-i.iStop::before {vertical-align: top; content: '\E047';}
-i.iVideocam::before {vertical-align: top; content: '\E04B';}
-i.iCall::before {vertical-align: top; content: '\E0B0';}
-i.iChatBubble::before {vertical-align: top; content: '\E0CA';}
-i.iAdd::before {vertical-align: top; content: '\E145';}
-i.iAddCircle::before {vertical-align: top; content: '\E147';}
-i.iContentCopy::before {vertical-align: top; content: '\E14D';}
-i.iDrafts::before {vertical-align: top; content: '\E151';}
-i.iForward::before {vertical-align: top; content: '\E154';}
-i.iInbox::before {vertical-align: top; content: '\E156';}
-i.iLink::before {vertical-align: top; content: '\E157';}
-i.iMail::before {vertical-align: top; content: '\E158';}
-i.iRedo::before {vertical-align: top; content: '\E15A';}
-i.iRemove::before {vertical-align: top; content: '\E15B';}
-i.iRemoveCircle::before {vertical-align: top; content: '\E15C';}
-i.iReply::before {vertical-align: top; content: '\E15E';}
-i.iSend::before {vertical-align: top; content: '\E163';}
-i.iUndo::before {vertical-align: top; content: '\E166';}
-i.iPauseCircle::before {vertical-align: top; content: '\E1A2';}
-i.iPlayCircle::before {vertical-align: top; content: '\E1C4';}
-i.iFormatAlignCenter::before {vertical-align: top; content: '\E234';}
-i.iFormatAlignJustify::before {vertical-align: top; content: '\E235';}
-i.iFormatAlignLeft::before {vertical-align: top; content: '\E236';}
-i.iFormatAlignRight::before {vertical-align: top; content: '\E237';}
-i.iFormatBold::before {vertical-align: top; content: '\E238';}
-i.iFormatItalic::before {vertical-align: top; content: '\E23F';}
-i.iFormatSize::before {vertical-align: top; content: '\E245';}
-i.iFormatStrikethrough::before {vertical-align: top; content: '\E246';}
-i.iFormatUnderlined::before {vertical-align: top; content: '\E249';}
-i.iTitle::before {vertical-align: top; content: '\E264';}
-i.iFolder::before {vertical-align: top; content: '\E2C7';}
-i.iKeyboardArrowDown::before {vertical-align: top; content: '\E313';}
-i.iKeyboardArrowLeft::before {vertical-align: top; content: '\E314';}
-i.iKeyboardArrowRight::before {vertical-align: top; content: '\E315';}
-i.iKeyboardArrowUp::before {vertical-align: top; content: '\E316';}
-i.iEdit::before {vertical-align: top; content: '\E3C9';}
-i.iImage::before {vertical-align: top; content: '\E3F4';}
-i.iPhotoCamera::before {vertical-align: top; content: '\E412';}
-i.iTimer::before {vertical-align: top; content: '\E425';}
-i.iLocalShipping::before {vertical-align: top; content: '\E558';}
-i.iApps::before {vertical-align: top; content: '\E5C3';}
-i.iArrowLeft::before {vertical-align: top; content: '\E5C4';}
-i.iArrowDropDown::before {vertical-align: top; content: '\E5C5';}
-i.iArrowDropUp::before {vertical-align: top; content: '\E5C7';}
-i.iArrowRight::before {vertical-align: top; content: '\E5C8';}
-i.iCancel::before {vertical-align: top; content: '\E5C9';}
-i.iClose::before {vertical-align: top; content: '\E5CD';}
-i.iMenu::before {vertical-align: top; content: '\E5D2';}
-i.iMoreHoriz::before {vertical-align: top; content: '\E5D3';}
-i.iMoreVert::before {vertical-align: top; content: '\E5D4';}
-i.iRefresh::before {vertical-align: top; content: '\E5D5';}
-i.iArrowUp::before {vertical-align: top; content: '\E5D8';}
-i.iArrowDown::before {vertical-align: top; content: '\E5DB';}
-i.iEventAvailable::before {vertical-align: top; content: '\E614';}
-i.iEventBusy::before {vertical-align: top; content: '\E615';}
-i.iEventNote::before {vertical-align: top; content: '\E616';}
-i.iSms::before {vertical-align: top; content: '\E625';}
-i.iSync::before {vertical-align: top; content: '\E627';}
-i.iDraft::before {vertical-align: top; content: '\E66D';}
-i.iArrowShare::before {vertical-align: top; content: '\E6B8';}
-i.iExpandCircleUp::before {vertical-align: top; content: '\E7CC';}
-i.iExpandCircleDown::before {vertical-align: top; content: '\E7CD';}
-i.iNotifications::before {vertical-align: top; content: '\E7F4';}
-i.iPerson::before {vertical-align: top; content: '\E7FD';}
-i.iPersonAdd::before {vertical-align: top; content: '\E7FE';}
-i.iShare::before {vertical-align: top; content: '\E80D';}
-i.iCheckBox::before {vertical-align: top; content: '\E834';}
-i.iCheckBoxBlank::before {vertical-align: top; content: '\E835';}
-i.iRadioButtonUnchecked::before {vertical-align: top; content: '\E836';}
-i.iRadioButtonChecked::before {vertical-align: top; content: '\E837';}
-i.iStar::before {vertical-align: top; content: '\E838';}
-i.iStarHalf::before {vertical-align: top; content: '\E839';}
-i.iAccountCircle::before {vertical-align: top; content: '\E853';}
-i.iAlarm::before {vertical-align: top; content: '\E855';}
-i.iAlarmAdd::before {vertical-align: top; content: '\E856';}
-i.iAlarmOn::before {vertical-align: top; content: '\E858';}
-i.iBookmark::before {vertical-align: top; content: '\E866';}
-i.iCheckCircle::before {vertical-align: top; content: '\E86C';}
-i.iDelete::before {vertical-align: top; content: '\E872';}
-i.iDone::before {vertical-align: top; content: '\E876';}
-i.iEvent::before {vertical-align: top; content: '\E878';}
-i.iFavorite::before {vertical-align: top; content: '\E87D';}
-i.iHelp::before {vertical-align: top; content: '\E887';}
-i.iHome::before {vertical-align: top; content: '\E88A';}
-i.iInfo::before {vertical-align: top; content: '\E88E';}
-i.iLanguage::before {vertical-align: top; content: '\E894';}
-i.iList::before {vertical-align: top; content: '\E896';}
-i.iLock::before {vertical-align: top; content: '\E897';}
-i.iLockOpen::before {vertical-align: top; content: '\E898';}
-i.iOpenInNew::before {vertical-align: top; content: '\E89E';}
-i.iSchedule::before {vertical-align: top; content: '\E8B5';}
-i.iSearch::before {vertical-align: top; content: '\E8B6';}
-i.iSetting::before {vertical-align: top; content: '\E8B8';}
-i.iShoppingCart::before {vertical-align: top; content: '\E8CC';}
-i.iThumbDown::before {vertical-align: top; content: '\E8DB';}
-i.iThumbUp::before {vertical-align: top; content: '\E8DC';}
-i.iZoomIn::before {vertical-align: top; content: '\E8FF';}
-i.iZoomOut::before {vertical-align: top; content: '\E900';}
-i.iIndeterminateCheckBox::before {vertical-align: top; content: '\E909';}
-i.iFingerprint::before {vertical-align: top; content: '\E90D';}
-i.iDateRange::before {vertical-align: top; content: '\E916';}
-i.iUpdate::before {vertical-align: top; content: '\E923';}
-i.iCalendarToday::before {vertical-align: top; content: '\E935';}
-i.iKeyboardDoubleArrowLeft::before {vertical-align: top; content: '\EAC3';}
-i.iKeyboardDoubleArrowRight::before {vertical-align: top; content: '\EAC9';}
-i.iKeyboardDoubleArrowUp::before {vertical-align: top; content: '\EACF';}
-i.iKeyboardDoubleArrowDown::before {vertical-align: top; content: '\EAD0';}
-i.iSquare::before {vertical-align: top; content: '\EB36';}
-i.iCircle::before {vertical-align: top; content: '\EF4A';}
-i.iPending::before {vertical-align: top; content: '\EF64';}
-i.iStopCircle::before {vertical-align: top; content: '\EF71';}
-i.iDownload::before {vertical-align: top; content: '\F090';}
-i.iUpload::before {vertical-align: top; content: '\F09B';}
-i.iShoppingBag::before {vertical-align: top; content: '\F1CC';}
-i.iOpenInFull::before {vertical-align: top; content: '\F1CE';}
-i.iCloseFullscreen::before {vertical-align: top; content: '\F1CF';}
-i.iFaceId::before {vertical-align: top; content: '\F1ED';}
-i.iBackspace::before {vertical-align: top; content: '\E14A';}
-i.iBluetooth::before {vertical-align: top; content: '\E1A7';}
-i.iCategory::before {vertical-align: top; content: '\E574';}
-i.iLogin::before {vertical-align: top; content: '\EA77';}
-i.iLoout::before {vertical-align: top; content: '\E9BA';}
-i.iRssFeed::before {vertical-align: top; content: '\E0E5';}
-i.iSentimentSatisfied::before {vertical-align: top; content: '\E813';}
-i.iVisibility::before {vertical-align: top; content: '\E8F4';}
-i.iVisibilityOff::before {vertical-align: top; content: '\E8F5';}
-i.iWifi::before {vertical-align: top; content: '\E63E';}
-i.iStart::before {vertical-align: top; content: '\E089';}
-i.iLocationOff::before {vertical-align: top; content: '\E0C7';}
-i.iCheckLocation::before {vertical-align: top; content: '\E177';}
-i.iMyLocationOff::before {vertical-align: top; content: '\E1B6';}
-i.iAddReaction::before {vertical-align: top; content: '\E1D3';}
-i.iPublish::before {vertical-align: top; content: '\E255';}
-i.iSpaceBar::before {vertical-align: top; content: '\E256';}
-i.iKeyboardReturn::before {vertical-align: top; content: '\E31B';}
-i.iKeyboardTab::before {vertical-align: top; content: '\E31C';}
-i.iMap::before {vertical-align: top; content: '\E55B';}
-i.iMyLocation::before {vertical-align: top; content: '\E55C';}
-i.iNavigation::before {vertical-align: top; content: '\E55D';}
-i.iLocation::before {vertical-align: top; content: '\E55E';}
-i.iAddLocation::before {vertical-align: top; content: '\E567';}
-i.iNearMe::before {vertical-align: top; content: '\E569';}
-i.iExplore::before {vertical-align: top; content: '\E87A';}
-i.iDeleteForever::before {vertical-align: top; content: '\E92B';}
-i.iExploreOff::before {vertical-align: top; content: '\E9A8';}
-i.iKeyboardControl::before {vertical-align: top; content: '\EAE6';}
-i.iKeyboardCommand::before {vertical-align: top; content: '\EAE7';}
-i.iKeyboardOption::before {vertical-align: top; content: '\EAE8';}
-i.iThickArrowRight::before {vertical-align: top; content: '\F1DF';}
-i.iThickArrowUp::before {vertical-align: top; content: '\F1E0';}
-i.iThickArrowDown::before {vertical-align: top; content: '\F1E3';}
-i.iThickArrowLeft::before {vertical-align: top; content: '\F1E6';}
-i.iNearMeOff::before {vertical-align: top; content: '\F1EF';}
+i.iError::before {
+  vertical-align: top;
+  content: "\E000";
+}
+i.iFastForward::before {
+  vertical-align: top;
+  content: "\E01F";
+}
+i.iFastRewind::before {
+  vertical-align: top;
+  content: "\E020";
+}
+i.iPause::before {
+  vertical-align: top;
+  content: "\E034";
+}
+i.iPlayArrow::before {
+  vertical-align: top;
+  content: "\E037";
+}
+i.iSkipNext::before {
+  vertical-align: top;
+  content: "\E044";
+}
+i.iSkipPrevious::before {
+  vertical-align: top;
+  content: "\E045";
+}
+i.iStop::before {
+  vertical-align: top;
+  content: "\E047";
+}
+i.iVideocam::before {
+  vertical-align: top;
+  content: "\E04B";
+}
+i.iCall::before {
+  vertical-align: top;
+  content: "\E0B0";
+}
+i.iChatBubble::before {
+  vertical-align: top;
+  content: "\E0CA";
+}
+i.iAdd::before {
+  vertical-align: top;
+  content: "\E145";
+}
+i.iAddCircle::before {
+  vertical-align: top;
+  content: "\E147";
+}
+i.iContentCopy::before {
+  vertical-align: top;
+  content: "\E14D";
+}
+i.iDrafts::before {
+  vertical-align: top;
+  content: "\E151";
+}
+i.iForward::before {
+  vertical-align: top;
+  content: "\E154";
+}
+i.iInbox::before {
+  vertical-align: top;
+  content: "\E156";
+}
+i.iLink::before {
+  vertical-align: top;
+  content: "\E157";
+}
+i.iMail::before {
+  vertical-align: top;
+  content: "\E158";
+}
+i.iRedo::before {
+  vertical-align: top;
+  content: "\E15A";
+}
+i.iRemove::before {
+  vertical-align: top;
+  content: "\E15B";
+}
+i.iRemoveCircle::before {
+  vertical-align: top;
+  content: "\E15C";
+}
+i.iReply::before {
+  vertical-align: top;
+  content: "\E15E";
+}
+i.iSend::before {
+  vertical-align: top;
+  content: "\E163";
+}
+i.iUndo::before {
+  vertical-align: top;
+  content: "\E166";
+}
+i.iPauseCircle::before {
+  vertical-align: top;
+  content: "\E1A2";
+}
+i.iPlayCircle::before {
+  vertical-align: top;
+  content: "\E1C4";
+}
+i.iFormatAlignCenter::before {
+  vertical-align: top;
+  content: "\E234";
+}
+i.iFormatAlignJustify::before {
+  vertical-align: top;
+  content: "\E235";
+}
+i.iFormatAlignLeft::before {
+  vertical-align: top;
+  content: "\E236";
+}
+i.iFormatAlignRight::before {
+  vertical-align: top;
+  content: "\E237";
+}
+i.iFormatBold::before {
+  vertical-align: top;
+  content: "\E238";
+}
+i.iFormatItalic::before {
+  vertical-align: top;
+  content: "\E23F";
+}
+i.iFormatSize::before {
+  vertical-align: top;
+  content: "\E245";
+}
+i.iFormatStrikethrough::before {
+  vertical-align: top;
+  content: "\E246";
+}
+i.iFormatUnderlined::before {
+  vertical-align: top;
+  content: "\E249";
+}
+i.iTitle::before {
+  vertical-align: top;
+  content: "\E264";
+}
+i.iFolder::before {
+  vertical-align: top;
+  content: "\E2C7";
+}
+i.iKeyboardArrowDown::before {
+  vertical-align: top;
+  content: "\E313";
+}
+i.iKeyboardArrowLeft::before {
+  vertical-align: top;
+  content: "\E314";
+}
+i.iKeyboardArrowRight::before {
+  vertical-align: top;
+  content: "\E315";
+}
+i.iKeyboardArrowUp::before {
+  vertical-align: top;
+  content: "\E316";
+}
+i.iEdit::before {
+  vertical-align: top;
+  content: "\E3C9";
+}
+i.iImage::before {
+  vertical-align: top;
+  content: "\E3F4";
+}
+i.iPhotoCamera::before {
+  vertical-align: top;
+  content: "\E412";
+}
+i.iTimer::before {
+  vertical-align: top;
+  content: "\E425";
+}
+i.iLocalShipping::before {
+  vertical-align: top;
+  content: "\E558";
+}
+i.iApps::before {
+  vertical-align: top;
+  content: "\E5C3";
+}
+i.iArrowLeft::before {
+  vertical-align: top;
+  content: "\E5C4";
+}
+i.iArrowDropDown::before {
+  vertical-align: top;
+  content: "\E5C5";
+}
+i.iArrowDropUp::before {
+  vertical-align: top;
+  content: "\E5C7";
+}
+i.iArrowRight::before {
+  vertical-align: top;
+  content: "\E5C8";
+}
+i.iCancel::before {
+  vertical-align: top;
+  content: "\E5C9";
+}
+i.iClose::before {
+  vertical-align: top;
+  content: "\E5CD";
+}
+i.iMenu::before {
+  vertical-align: top;
+  content: "\E5D2";
+}
+i.iMoreHoriz::before {
+  vertical-align: top;
+  content: "\E5D3";
+}
+i.iMoreVert::before {
+  vertical-align: top;
+  content: "\E5D4";
+}
+i.iRefresh::before {
+  vertical-align: top;
+  content: "\E5D5";
+}
+i.iArrowUp::before {
+  vertical-align: top;
+  content: "\E5D8";
+}
+i.iArrowDown::before {
+  vertical-align: top;
+  content: "\E5DB";
+}
+i.iEventAvailable::before {
+  vertical-align: top;
+  content: "\E614";
+}
+i.iEventBusy::before {
+  vertical-align: top;
+  content: "\E615";
+}
+i.iEventNote::before {
+  vertical-align: top;
+  content: "\E616";
+}
+i.iSms::before {
+  vertical-align: top;
+  content: "\E625";
+}
+i.iSync::before {
+  vertical-align: top;
+  content: "\E627";
+}
+i.iDraft::before {
+  vertical-align: top;
+  content: "\E66D";
+}
+i.iArrowShare::before {
+  vertical-align: top;
+  content: "\E6B8";
+}
+i.iExpandCircleUp::before {
+  vertical-align: top;
+  content: "\E7CC";
+}
+i.iExpandCircleDown::before {
+  vertical-align: top;
+  content: "\E7CD";
+}
+i.iNotifications::before {
+  vertical-align: top;
+  content: "\E7F4";
+}
+i.iPerson::before {
+  vertical-align: top;
+  content: "\E7FD";
+}
+i.iPersonAdd::before {
+  vertical-align: top;
+  content: "\E7FE";
+}
+i.iShare::before {
+  vertical-align: top;
+  content: "\E80D";
+}
+i.iCheckBox::before {
+  vertical-align: top;
+  content: "\E834";
+}
+i.iCheckBoxBlank::before {
+  vertical-align: top;
+  content: "\E835";
+}
+i.iRadioButtonUnchecked::before {
+  vertical-align: top;
+  content: "\E836";
+}
+i.iRadioButtonChecked::before {
+  vertical-align: top;
+  content: "\E837";
+}
+i.iStar::before {
+  vertical-align: top;
+  content: "\E838";
+}
+i.iStarHalf::before {
+  vertical-align: top;
+  content: "\E839";
+}
+i.iAccountCircle::before {
+  vertical-align: top;
+  content: "\E853";
+}
+i.iAlarm::before {
+  vertical-align: top;
+  content: "\E855";
+}
+i.iAlarmAdd::before {
+  vertical-align: top;
+  content: "\E856";
+}
+i.iAlarmOn::before {
+  vertical-align: top;
+  content: "\E858";
+}
+i.iBookmark::before {
+  vertical-align: top;
+  content: "\E866";
+}
+i.iCheckCircle::before {
+  vertical-align: top;
+  content: "\E86C";
+}
+i.iDelete::before {
+  vertical-align: top;
+  content: "\E872";
+}
+i.iDone::before {
+  vertical-align: top;
+  content: "\E876";
+}
+i.iEvent::before {
+  vertical-align: top;
+  content: "\E878";
+}
+i.iFavorite::before {
+  vertical-align: top;
+  content: "\E87D";
+}
+i.iHelp::before {
+  vertical-align: top;
+  content: "\E887";
+}
+i.iHome::before {
+  vertical-align: top;
+  content: "\E88A";
+}
+i.iInfo::before {
+  vertical-align: top;
+  content: "\E88E";
+}
+i.iLanguage::before {
+  vertical-align: top;
+  content: "\E894";
+}
+i.iList::before {
+  vertical-align: top;
+  content: "\E896";
+}
+i.iLock::before {
+  vertical-align: top;
+  content: "\E897";
+}
+i.iLockOpen::before {
+  vertical-align: top;
+  content: "\E898";
+}
+i.iOpenInNew::before {
+  vertical-align: top;
+  content: "\E89E";
+}
+i.iSchedule::before {
+  vertical-align: top;
+  content: "\E8B5";
+}
+i.iSearch::before {
+  vertical-align: top;
+  content: "\E8B6";
+}
+i.iSetting::before {
+  vertical-align: top;
+  content: "\E8B8";
+}
+i.iShoppingCart::before {
+  vertical-align: top;
+  content: "\E8CC";
+}
+i.iThumbDown::before {
+  vertical-align: top;
+  content: "\E8DB";
+}
+i.iThumbUp::before {
+  vertical-align: top;
+  content: "\E8DC";
+}
+i.iZoomIn::before {
+  vertical-align: top;
+  content: "\E8FF";
+}
+i.iZoomOut::before {
+  vertical-align: top;
+  content: "\E900";
+}
+i.iIndeterminateCheckBox::before {
+  vertical-align: top;
+  content: "\E909";
+}
+i.iFingerprint::before {
+  vertical-align: top;
+  content: "\E90D";
+}
+i.iDateRange::before {
+  vertical-align: top;
+  content: "\E916";
+}
+i.iUpdate::before {
+  vertical-align: top;
+  content: "\E923";
+}
+i.iCalendarToday::before {
+  vertical-align: top;
+  content: "\E935";
+}
+i.iKeyboardDoubleArrowLeft::before {
+  vertical-align: top;
+  content: "\EAC3";
+}
+i.iKeyboardDoubleArrowRight::before {
+  vertical-align: top;
+  content: "\EAC9";
+}
+i.iKeyboardDoubleArrowUp::before {
+  vertical-align: top;
+  content: "\EACF";
+}
+i.iKeyboardDoubleArrowDown::before {
+  vertical-align: top;
+  content: "\EAD0";
+}
+i.iSquare::before {
+  vertical-align: top;
+  content: "\EB36";
+}
+i.iCircle::before {
+  vertical-align: top;
+  content: "\EF4A";
+}
+i.iPending::before {
+  vertical-align: top;
+  content: "\EF64";
+}
+i.iStopCircle::before {
+  vertical-align: top;
+  content: "\EF71";
+}
+i.iDownload::before {
+  vertical-align: top;
+  content: "\F090";
+}
+i.iUpload::before {
+  vertical-align: top;
+  content: "\F09B";
+}
+i.iShoppingBag::before {
+  vertical-align: top;
+  content: "\F1CC";
+}
+i.iOpenInFull::before {
+  vertical-align: top;
+  content: "\F1CE";
+}
+i.iCloseFullscreen::before {
+  vertical-align: top;
+  content: "\F1CF";
+}
+i.iFaceId::before {
+  vertical-align: top;
+  content: "\F1ED";
+}
+i.iBackspace::before {
+  vertical-align: top;
+  content: "\E14A";
+}
+i.iBluetooth::before {
+  vertical-align: top;
+  content: "\E1A7";
+}
+i.iCategory::before {
+  vertical-align: top;
+  content: "\E574";
+}
+i.iLogin::before {
+  vertical-align: top;
+  content: "\EA77";
+}
+i.iLoout::before {
+  vertical-align: top;
+  content: "\E9BA";
+}
+i.iRssFeed::before {
+  vertical-align: top;
+  content: "\E0E5";
+}
+i.iSentimentSatisfied::before {
+  vertical-align: top;
+  content: "\E813";
+}
+i.iVisibility::before {
+  vertical-align: top;
+  content: "\E8F4";
+}
+i.iVisibilityOff::before {
+  vertical-align: top;
+  content: "\E8F5";
+}
+i.iWifi::before {
+  vertical-align: top;
+  content: "\E63E";
+}
+i.iStart::before {
+  vertical-align: top;
+  content: "\E089";
+}
+i.iLocationOff::before {
+  vertical-align: top;
+  content: "\E0C7";
+}
+i.iCheckLocation::before {
+  vertical-align: top;
+  content: "\E177";
+}
+i.iMyLocationOff::before {
+  vertical-align: top;
+  content: "\E1B6";
+}
+i.iAddReaction::before {
+  vertical-align: top;
+  content: "\E1D3";
+}
+i.iPublish::before {
+  vertical-align: top;
+  content: "\E255";
+}
+i.iSpaceBar::before {
+  vertical-align: top;
+  content: "\E256";
+}
+i.iKeyboardReturn::before {
+  vertical-align: top;
+  content: "\E31B";
+}
+i.iKeyboardTab::before {
+  vertical-align: top;
+  content: "\E31C";
+}
+i.iMap::before {
+  vertical-align: top;
+  content: "\E55B";
+}
+i.iMyLocation::before {
+  vertical-align: top;
+  content: "\E55C";
+}
+i.iNavigation::before {
+  vertical-align: top;
+  content: "\E55D";
+}
+i.iLocation::before {
+  vertical-align: top;
+  content: "\E55E";
+}
+i.iAddLocation::before {
+  vertical-align: top;
+  content: "\E567";
+}
+i.iNearMe::before {
+  vertical-align: top;
+  content: "\E569";
+}
+i.iExplore::before {
+  vertical-align: top;
+  content: "\E87A";
+}
+i.iDeleteForever::before {
+  vertical-align: top;
+  content: "\E92B";
+}
+i.iExploreOff::before {
+  vertical-align: top;
+  content: "\E9A8";
+}
+i.iKeyboardControl::before {
+  vertical-align: top;
+  content: "\EAE6";
+}
+i.iKeyboardCommand::before {
+  vertical-align: top;
+  content: "\EAE7";
+}
+i.iKeyboardOption::before {
+  vertical-align: top;
+  content: "\EAE8";
+}
+i.iThickArrowRight::before {
+  vertical-align: top;
+  content: "\F1DF";
+}
+i.iThickArrowUp::before {
+  vertical-align: top;
+  content: "\F1E0";
+}
+i.iThickArrowDown::before {
+  vertical-align: top;
+  content: "\F1E3";
+}
+i.iThickArrowLeft::before {
+  vertical-align: top;
+  content: "\F1E6";
+}
+i.iNearMeOff::before {
+  vertical-align: top;
+  content: "\F1EF";
+}
 
+i.iInventory::before {
+  vertical-align: top;
+  content: "\E1A1";
+}
+i.iShieldAdd::before {
+  vertical-align: top;
+  content: "\E1D5";
+}
+i.iArrowAlignBottom::before {
+  vertical-align: top;
+  content: "\E258";
+}
+i.iArrowAlignCenter::before {
+  vertical-align: top;
+  content: "\E259";
+}
+i.iArrowAlignTop::before {
+  vertical-align: top;
+  content: "\E25A";
+}
+i.iUnfoldLess::before {
+  vertical-align: top;
+  content: "\E5D6";
+}
+i.iUnfoldMore::before {
+  vertical-align: top;
+  content: "\E5D7";
+}
+i.iArrowAlignUp::before {
+  vertical-align: top;
+  content: "\E840";
+}
+i.iArrowAlignDown::before {
+  vertical-align: top;
+  content: "\E841";
+}
+i.iSwapHoriz::before {
+  vertical-align: top;
+  content: "\E8D4";
+}
+i.iSwapVert::before {
+  vertical-align: top;
+  content: "\E8D5";
+}
+i.iShieldCheck::before {
+  vertical-align: top;
+  content: "\E8E8";
+}
+i.iViewList::before {
+  vertical-align: top;
+  content: "\E8EF";
+}
+i.iDragVert::before {
+  vertical-align: top;
+  content: "\E945";
+}
+i.iDragHoriz::before {
+  vertical-align: top;
+  content: "\E946";
+}
+i.iViewGrid::before {
+  vertical-align: top;
+  content: "\E9B0";
+}
+i.iShieldOff::before {
+  vertical-align: top;
+  content: "\E9D4";
+}
+i.iShield::before {
+  vertical-align: top;
+  content: "\E9E0";
+}
+i.iHome2::before {
+  vertical-align: top;
+  content: "\EA44";
+}
+i.iFilter::before {
+  vertical-align: top;
+  content: "\EF4F";
+}
+i.iShieldBad::before {
+  vertical-align: top;
+  content: "\F012";
+}
+i.iShieldWarning::before {
+  vertical-align: top;
+  content: "\F014";
+}
+i.iShieldTip::before {
+  vertical-align: top;
+  content: "\F0DC";
+}
+i.iViewTable::before {
+  vertical-align: top;
+  content: "\F191";
+}
+i.iArrowUpRight::before {
+  vertical-align: top;
+  content: "\F1E1";
+}
+i.iArrowUpLeft::before {
+  vertical-align: top;
+  content: "\F1E2";
+}
+i.iArrowDownRight::before {
+  vertical-align: top;
+  content: "\F1E4";
+}
+i.iArrowDownLeft::before {
+  vertical-align: top;
+  content: "\F1E5";
+}
+i.iThickArrowDownLeft::before {
+  vertical-align: top;
+  content: "\F1E7";
+}
+i.iThickArrowDownRight::before {
+  vertical-align: top;
+  content: "\F1E8";
+}
+i.iThickArrowUpLeft::before {
+  vertical-align: top;
+  content: "\F1EB";
+}
+i.iThickArrowUpRight::before {
+  vertical-align: top;
+  content: "\F1EC";
+}
 
 /* Brand Icon */
-i.iBrandApple::before {vertical-align: top; content: '\F8FF';}
-i.iBrandDribbble::before {vertical-align: top; content: '\F8EF';}
-i.iBrandFacebook::before {vertical-align: top; content: '\F8FC';}
-i.iBrandFigma::before {vertical-align: top; content: '\F8ED';}
-i.iBrandGithub::before {vertical-align: top; content: '\F8F4';}
-i.iBrandGoogle::before {vertical-align: top; content: '\F8FB';}
-i.iBrandInstagram::before {vertical-align: top; content: '\F8F9';}
-i.iBrandKakao::before {vertical-align: top; content: '\F8FE';}
-i.iBrandLinkedin::before {vertical-align: top; content: '\F8F7';}
-i.iBrandMedium::before {vertical-align: top; content: '\F8F3';}
-i.iBrandMeta::before {vertical-align: top; content: '\F8EC';}
-i.iBrandNaver::before {vertical-align: top; content: '\F8FD';}
-i.iBrandNotion::before {vertical-align: top; content: '\F8F8';}
-i.iBrandPinterest::before {vertical-align: top; content: '\F8F6';}
-i.iBrandSkype::before {vertical-align: top; content: '\F8F2';}
-i.iBrandTiktok::before {vertical-align: top; content: '\F8F0';}
-i.iBrandTumblr::before {vertical-align: top; content: '\F8F1';}
-i.iBrandTwitch::before {vertical-align: top; content: '\F8EE';}
-i.iBrandTwitter::before {vertical-align: top; content: '\F8FA';}
-i.iBrandYoutube::before {vertical-align: top; content: '\F8F5';}
-i.iBrandPlaystore::before {vertical-align: top; content: '\F8E0';}
-i.iBrandAppstore::before {vertical-align: top; content: '\F8E1';}
-i.iBrandSlack::before {vertical-align: top; content: '\F8E2';}
-i.iBrandSnapchat::before {vertical-align: top; content: '\F8E3';}
-i.iBrandMessenger::before {vertical-align: top; content: '\F8E4';}
-i.iBrandAmazon::before {vertical-align: top; content: '\F8E5';}
-i.iBrandBehance::before {vertical-align: top; content: '\F8E6';}
-i.iBrandAndroid::before {vertical-align: top; content: '\F8E7';}
-i.iBrandMicrosoft::before {vertical-align: top; content: '\F8E8';}
-i.iBrandDiscord::before {vertical-align: top; content: '\F8E9';}
-i.iBrandSpotify::before {vertical-align: top; content: '\F8EA';}
-i.iBrandReddit::before {vertical-align: top; content: '\F8EB';}
+i.iBrandApple::before {
+  vertical-align: top;
+  content: "\F8FF";
+}
+i.iBrandDribbble::before {
+  vertical-align: top;
+  content: "\F8EF";
+}
+i.iBrandFacebook::before {
+  vertical-align: top;
+  content: "\F8FC";
+}
+i.iBrandFigma::before {
+  vertical-align: top;
+  content: "\F8ED";
+}
+i.iBrandGithub::before {
+  vertical-align: top;
+  content: "\F8F4";
+}
+i.iBrandGoogle::before {
+  vertical-align: top;
+  content: "\F8FB";
+}
+i.iBrandInstagram::before {
+  vertical-align: top;
+  content: "\F8F9";
+}
+i.iBrandKakao::before {
+  vertical-align: top;
+  content: "\F8FE";
+}
+i.iBrandLinkedin::before {
+  vertical-align: top;
+  content: "\F8F7";
+}
+i.iBrandMedium::before {
+  vertical-align: top;
+  content: "\F8F3";
+}
+i.iBrandMeta::before {
+  vertical-align: top;
+  content: "\F8EC";
+}
+i.iBrandNaver::before {
+  vertical-align: top;
+  content: "\F8FD";
+}
+i.iBrandNotion::before {
+  vertical-align: top;
+  content: "\F8F8";
+}
+i.iBrandPinterest::before {
+  vertical-align: top;
+  content: "\F8F6";
+}
+i.iBrandSkype::before {
+  vertical-align: top;
+  content: "\F8F2";
+}
+i.iBrandTiktok::before {
+  vertical-align: top;
+  content: "\F8F0";
+}
+i.iBrandTumblr::before {
+  vertical-align: top;
+  content: "\F8F1";
+}
+i.iBrandTwitch::before {
+  vertical-align: top;
+  content: "\F8EE";
+}
+i.iBrandTwitter::before {
+  vertical-align: top;
+  content: "\F8FA";
+}
+i.iBrandYoutube::before {
+  vertical-align: top;
+  content: "\F8F5";
+}
+i.iBrandPlaystore::before {
+  vertical-align: top;
+  content: "\F8E0";
+}
+i.iBrandAppstore::before {
+  vertical-align: top;
+  content: "\F8E1";
+}
+i.iBrandSlack::before {
+  vertical-align: top;
+  content: "\F8E2";
+}
+i.iBrandSnapchat::before {
+  vertical-align: top;
+  content: "\F8E3";
+}
+i.iBrandMessenger::before {
+  vertical-align: top;
+  content: "\F8E4";
+}
+i.iBrandAmazon::before {
+  vertical-align: top;
+  content: "\F8E5";
+}
+i.iBrandBehance::before {
+  vertical-align: top;
+  content: "\F8E6";
+}
+i.iBrandAndroid::before {
+  vertical-align: top;
+  content: "\F8E7";
+}
+i.iBrandMicrosoft::before {
+  vertical-align: top;
+  content: "\F8E8";
+}
+i.iBrandDiscord::before {
+  vertical-align: top;
+  content: "\F8E9";
+}
+i.iBrandSpotify::before {
+  vertical-align: top;
+  content: "\F8EA";
+}
+i.iBrandReddit::before {
+  vertical-align: top;
+  content: "\F8EB";
+}
