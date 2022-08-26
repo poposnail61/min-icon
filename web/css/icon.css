@@ -48,7 +48,7 @@ i.iBlack {
 }
 
 /* Icon */
-i.iError::before {
+i.iExclamationCircle::before {
   vertical-align: top;
   content: "\E000";
 }
@@ -64,7 +64,7 @@ i.iPause::before {
   vertical-align: top;
   content: "\E034";
 }
-i.iPlayArrow::before {
+i.iPlay::before {
   vertical-align: top;
   content: "\E037";
 }
@@ -88,7 +88,7 @@ i.iCall::before {
   vertical-align: top;
   content: "\E0B0";
 }
-i.iChatBubble::before {
+i.iChat::before {
   vertical-align: top;
   content: "\E0CA";
 }
@@ -104,7 +104,7 @@ i.iContentCopy::before {
   vertical-align: top;
   content: "\E14D";
 }
-i.iDrafts::before {
+i.iMailOpen::before {
   vertical-align: top;
   content: "\E151";
 }
@@ -200,19 +200,19 @@ i.iFolder::before {
   vertical-align: top;
   content: "\E2C7";
 }
-i.iKeyboardArrowDown::before {
+i.iKeyArrowDown::before {
   vertical-align: top;
   content: "\E313";
 }
-i.iKeyboardArrowLeft::before {
+i.iKeyArrowLeft::before {
   vertical-align: top;
   content: "\E314";
 }
-i.iKeyboardArrowRight::before {
+i.iKeyArrowRight::before {
   vertical-align: top;
   content: "\E315";
 }
-i.iKeyboardArrowUp::before {
+i.iKeyArrowUp::before {
   vertical-align: top;
   content: "\E316";
 }
@@ -224,7 +224,7 @@ i.iImage::before {
   vertical-align: top;
   content: "\E3F4";
 }
-i.iPhotoCamera::before {
+i.iCamera::before {
   vertical-align: top;
   content: "\E412";
 }
@@ -256,7 +256,7 @@ i.iArrowRight::before {
   vertical-align: top;
   content: "\E5C8";
 }
-i.iCancel::before {
+i.iCloseCircle::before {
   vertical-align: top;
   content: "\E5C9";
 }
@@ -288,19 +288,19 @@ i.iArrowDown::before {
   vertical-align: top;
   content: "\E5DB";
 }
-i.iEventAvailable::before {
+i.iDateCheck::before {
   vertical-align: top;
   content: "\E614";
 }
-i.iEventBusy::before {
+i.iDateClose::before {
   vertical-align: top;
   content: "\E615";
 }
-i.iEventNote::before {
+i.iDateNote::before {
   vertical-align: top;
   content: "\E616";
 }
-i.iSms::before {
+i.iChatMore::before {
   vertical-align: top;
   content: "\E625";
 }
@@ -316,11 +316,11 @@ i.iArrowShare::before {
   vertical-align: top;
   content: "\E6B8";
 }
-i.iExpandCircleUp::before {
+i.iKeyArrowUpCircle::before {
   vertical-align: top;
   content: "\E7CC";
 }
-i.iExpandCircleDown::before {
+i.iKeyArrowDownCircle::before {
   vertical-align: top;
   content: "\E7CD";
 }
@@ -364,7 +364,7 @@ i.iStarHalf::before {
   vertical-align: top;
   content: "\E839";
 }
-i.iAccountCircle::before {
+i.iPersonCircle::before {
   vertical-align: top;
   content: "\E853";
 }
@@ -392,11 +392,11 @@ i.iDelete::before {
   vertical-align: top;
   content: "\E872";
 }
-i.iDone::before {
+i.iCheck::before {
   vertical-align: top;
   content: "\E876";
 }
-i.iEvent::before {
+i.iDateToday::before {
   vertical-align: top;
   content: "\E878";
 }
@@ -404,7 +404,7 @@ i.iFavorite::before {
   vertical-align: top;
   content: "\E87D";
 }
-i.iHelp::before {
+i.iQuestionCircle::before {
   vertical-align: top;
   content: "\E887";
 }
@@ -412,7 +412,7 @@ i.iHome::before {
   vertical-align: top;
   content: "\E88A";
 }
-i.iInfo::before {
+i.iInfoCircle::before {
   vertical-align: top;
   content: "\E88E";
 }
@@ -468,7 +468,7 @@ i.iZoomOut::before {
   vertical-align: top;
   content: "\E900";
 }
-i.iIndeterminateCheckBox::before {
+i.iCheckBoxIndeterminate::before {
   vertical-align: top;
   content: "\E909";
 }
@@ -484,23 +484,23 @@ i.iUpdate::before {
   vertical-align: top;
   content: "\E923";
 }
-i.iCalendarToday::before {
+i.iDate::before {
   vertical-align: top;
   content: "\E935";
 }
-i.iKeyboardDoubleArrowLeft::before {
+i.iKeyDoubleArrowLeft::before {
   vertical-align: top;
   content: "\EAC3";
 }
-i.iKeyboardDoubleArrowRight::before {
+i.iKeyDoubleArrowRight::before {
   vertical-align: top;
   content: "\EAC9";
 }
-i.iKeyboardDoubleArrowUp::before {
+i.iKeyDoubleArrowUp::before {
   vertical-align: top;
   content: "\EACF";
 }
-i.iKeyboardDoubleArrowDown::before {
+i.iKeyDoubleArrowDown::before {
   vertical-align: top;
   content: "\EAD0";
 }
@@ -512,7 +512,7 @@ i.iCircle::before {
   vertical-align: top;
   content: "\EF4A";
 }
-i.iPending::before {
+i.iMoreCircle::before {
   vertical-align: top;
   content: "\EF64";
 }
@@ -568,7 +568,7 @@ i.iRssFeed::before {
   vertical-align: top;
   content: "\E0E5";
 }
-i.iSentimentSatisfied::before {
+i.iFaceSatisfied::before {
   vertical-align: top;
   content: "\E813";
 }
@@ -592,7 +592,7 @@ i.iLocationOff::before {
   vertical-align: top;
   content: "\E0C7";
 }
-i.iCheckLocation::before {
+i.iLocationCheck::before {
   vertical-align: top;
   content: "\E177";
 }
@@ -600,7 +600,7 @@ i.iMyLocationOff::before {
   vertical-align: top;
   content: "\E1B6";
 }
-i.iAddReaction::before {
+i.iFaceAdd::before {
   vertical-align: top;
   content: "\E1D3";
 }
@@ -608,15 +608,15 @@ i.iPublish::before {
   vertical-align: top;
   content: "\E255";
 }
-i.iSpaceBar::before {
+i.iKeySpaceBar::before {
   vertical-align: top;
   content: "\E256";
 }
-i.iKeyboardReturn::before {
+i.iKeyReturn::before {
   vertical-align: top;
   content: "\E31B";
 }
-i.iKeyboardTab::before {
+i.iKeyTab::before {
   vertical-align: top;
   content: "\E31C";
 }
@@ -636,7 +636,7 @@ i.iLocation::before {
   vertical-align: top;
   content: "\E55E";
 }
-i.iAddLocation::before {
+i.iLocationAdd::before {
   vertical-align: top;
   content: "\E567";
 }
@@ -656,15 +656,15 @@ i.iExploreOff::before {
   vertical-align: top;
   content: "\E9A8";
 }
-i.iKeyboardControl::before {
+i.iKeyControl::before {
   vertical-align: top;
   content: "\EAE6";
 }
-i.iKeyboardCommand::before {
+i.iKeyCommand::before {
   vertical-align: top;
   content: "\EAE7";
 }
-i.iKeyboardOption::before {
+i.iKeyOption::before {
   vertical-align: top;
   content: "\EAE8";
 }
