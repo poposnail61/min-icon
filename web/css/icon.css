@@ -568,7 +568,7 @@ i.iRssFeed::before {
   vertical-align: top;
   content: "\E0E5";
 }
-i.iFaceSatisfied::before {
+i.iFaceHappy::before {
   vertical-align: top;
   content: "\E813";
 }
