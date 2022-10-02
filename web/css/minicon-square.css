@@ -1,60 +1,14 @@
 @font-face {
-    font-family: 'Min Icon Square VF';
-    font-weight: 900;
-    src: url('../fonts/variable/MinIconSquareVF.woff2') format('woff2'),
-    url('../fonts/variable/MinIconSquareVF.ttf') format('truetype');
+  font-family: "Min Icon VF";
+  src: url("../fonts/variable/MinIconVF.woff2") format("woff2");
 }
-
-@font-face {
-    font-family: 'Min Icon Square';
-    font-weight: 900;
-    src: url('../fonts/static/MinIconSquare-Black.woff2') format('woff2'),
-    url('../fonts/static/MinIconSquare-Black.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Min Icon Square';
-    font-weight: 700;
-    src: url('../fonts/static/MinIconSquare-Bold.woff2') format('woff2'),
-    url('../fonts/static/MinIconSquare-Bold.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Min Icon Square';
-    font-weight: 550;
-    src: url('../fonts/static/MinIconSquare-Medium.woff2') format('woff2'),
-    url('../fonts/static/MinIconSquare-Medium.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Min Icon Square';
-    font-weight: 400;
-    src: url('../fonts/static/MinIconSquare-Regular.woff2') format('woff2'),
-    url('../fonts/static/MinIconSquare-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Min Icon Square';
-    font-weight: 250;
-    src: url('../fonts/static/MinIconSquare-Light.woff2') format('woff2'),
-    url('../fonts/static/MinIconSquare-Light.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Min Icon Square';
-    font-weight: 100;
-    src: url('../fonts/static/MinIconSquare-Thin.woff2') format('woff2'),
-    url('../fonts/static/MinIconSquare-Thin.ttf') format('truetype');
-}
-
-
-
 
 i {
-  font-family: 'Min Icon Square VF', 'Min Icon Square' !important;
+  font-family: "Min Icon VF" !important;
   font-size: 24px;
   font-weight: 700;
   line-height: 1;
+  font-variation-settings: "rond" 0, "edpt" 0;
   font-style: normal;
   vertical-align: top;
   -webkit-font-smoothing: antialiased;
