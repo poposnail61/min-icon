@@ -2,7 +2,6 @@
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
 
 
-
 **🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0/min-icon.zip)**
 
 **🔗 [Figma Commuity](https://www.figma.com/community/file/1102264404570708098/Min-Icon---Variable-icon-font)**
@@ -21,6 +20,10 @@ Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. �
 - 3 Variable Axes
 - Fill Style
 <br><br><br>
+
+<img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
+
+
 
 ## How to Use?
 
@@ -53,7 +56,6 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     ```css
     <i class="iFavorite"></i>
     ```
-    **🔗 [Icon List View](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**
     
     <br>
 - **Apply different styles**
