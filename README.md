@@ -1,6 +1,5 @@
 
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
-<img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
 
 **🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0/min-icon.zip)**
@@ -21,6 +20,9 @@ Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. �
 - 3 Variable Axes
 - Fill Style
 <br><br><br>
+
+<img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
+
 
 ## How to Use?
 
