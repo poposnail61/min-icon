@@ -1,6 +1,6 @@
 
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
-
+<img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
 
 **🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0/min-icon.zip)**
