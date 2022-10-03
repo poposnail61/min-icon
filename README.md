@@ -55,7 +55,6 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     ```css
     <i class="iFavorite"></i>
     ```
-    **🔗 [Icon List View](https://jinseong-kim.notion.site/d70b3e35d80a4b289a708d2704023463?v=988aca0ba81c4e39971b71767d5f4479)**
     
     <br>
 - **Apply different styles**
