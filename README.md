@@ -1,8 +1,8 @@
 
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
+<img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
-
-**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0/min-icon.zip)**
+**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0.1/min-icon.zip)**
 
 **🔗 [Figma Commuity](https://www.figma.com/community/file/1102264404570708098/Min-Icon---Variable-icon-font)**
 <br><br><br>
@@ -15,21 +15,20 @@ Min Icon is an icon font with various weights and styles. It supports variable f
 
 Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. 가변 폰트를 지원하여 원하는 스타일의 아이콘 세트로 커스텀하여 사용할 수 있습니다.<br>
 
-- 456 icons, 32 brand icons
+- 459 icons, 32 brand icons
 - 9 weights
 - 3 Variable Axes
 - Fill Style
 <br><br><br>
 
-<img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
 
 
 ## How to Use?
 
-Load the css file and apply the icon font for use. If you use variable fonts, you can change them to the desired thickness in addition to the six weight settings.
+Load the css file and apply the icon font to use it. You can use variable fonts to create your own special set of icons.
 
-css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변폰트를 사용할 경우 설정된 6가지 굵기 이외에 원하는 굵기로 변경하여 사용 가능합니다.<br>
+css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변폰트를 사용할 경우 자신만의 특별한 아이콘 세트를 만들 수 있습니다.<br>
 <br><br>
 
 - **css file setting**
@@ -66,13 +65,13 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
     | .fill | Icons of filled styles | ``` <i class="iFavorite fill"></i> ``` |
     | .spin | Rotational animation | ``` <i class="iFavorite spin"></i> ``` |
     | .iThin | Thin weight icon | ``` <i class="iFavorite iThin"></i> ``` |
-    | .iExtraLight | Light weight icon | ``` <i class="iFavorite iExtraLight"></i> ``` |
+    | .iExtraLight | ExtraLight weight icon | ``` <i class="iFavorite iExtraLight"></i> ``` |
     | .iLight | Light weight icon | ``` <i class="iFavorite iLight"></i> ``` |
     | .iRegular | Regular weight icon | ``` <i class="iFavorite iRegular"></i> ``` |
     | .iMedium | Medium weight icon | ``` <i class="iFavorite iMedium"></i> ``` |
-    | .iSemiBold | Bold weight icon | ``` <i class="iFavorite iSemiBold"></i> ``` |
+    | .iSemiBold | SemiBold weight icon | ``` <i class="iFavorite iSemiBold"></i> ``` |
     | .iBold | Bold weight icon | ``` <i class="iFavorite iBold"></i> ``` |
-    | .iExtraBold | Bold weight icon | ``` <i class="iFavorite iExtraBold"></i> ``` |
+    | .iExtraBold | ExtraBold weight icon | ``` <i class="iFavorite iExtraBold"></i> ``` |
     | .iBlack | Black weight icon | ``` <i class="iFavorite iBlack"></i> ``` |
     
     <br><br>
