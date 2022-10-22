@@ -1872,6 +1872,20 @@ i.iBookmarkQuestion::before {
   vertical-align: top;
   content: "\F02F";
 }
+
+i.iMoon::before {
+  vertical-align: top;
+  content: "\E0AC";
+}
+i.iSun::before {
+  vertical-align: top;
+  content: "\E0A8";
+}
+i.iStore::before {
+  vertical-align: top;
+  content: "\E0f4";
+}
+
 i.iBrandPlaystore::before {
   vertical-align: top;
   content: "\F8E0";
