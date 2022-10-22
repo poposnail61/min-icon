@@ -2,7 +2,7 @@
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
 <img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
-**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0/min-icon.zip)**
+**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0.1/min-icon.zip)**
 
 **🔗 [Figma Commuity](https://www.figma.com/community/file/1102264404570708098/Min-Icon---Variable-icon-font)**
 <br><br><br>
