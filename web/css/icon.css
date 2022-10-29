@@ -1886,6 +1886,135 @@ i.iStore::before {
   content: "\E0f4";
 }
 
+i.iCard::before {
+  vertical-align: top;
+  content: "\E164";
+}
+i.iPhone::before {
+  vertical-align: top;
+  content: "\E168";
+}
+i.iCurrencySterling::before {
+  vertical-align: top;
+  content: "\EC00";
+}
+i.iCurrencySterlingCircle::before {
+  vertical-align: top;
+  content: "\EC01";
+}
+i.iCurrencySterlingSquare::before {
+  vertical-align: top;
+  content: "\EC02";
+}
+i.iCurrencyDollar::before {
+  vertical-align: top;
+  content: "\EC04";
+}
+i.iCurrencyDollarCircle::before {
+  vertical-align: top;
+  content: "\EC05";
+}
+i.iCurrencyDollarSquare::before {
+  vertical-align: top;
+  content: "\EC06";
+}
+i.iCurrencyYen::before {
+  vertical-align: top;
+  content: "\EC08";
+}
+i.iCurrencyYenCircle::before {
+  vertical-align: top;
+  content: "\EC09";
+}
+i.iCurrencyYenSquare::before {
+  vertical-align: top;
+  content: "\EC0A";
+}
+i.iCurrencyWon::before {
+  vertical-align: top;
+  content: "\EC0C";
+}
+i.iCurrencyWonCircle::before {
+  vertical-align: top;
+  content: "\EC0D";
+}
+i.iCurrencyWonSquare::before {
+  vertical-align: top;
+  content: "\EC0E";
+}
+i.iCurrencyEuro::before {
+  vertical-align: top;
+  content: "\EC10";
+}
+i.iCurrencyEuroCircle::before {
+  vertical-align: top;
+  content: "\EC11";
+}
+i.iCurrencyEuroSquare::before {
+  vertical-align: top;
+  content: "\EC12";
+}
+i.iCurrencyBitcoin::before {
+  vertical-align: top;
+  content: "\EC14";
+}
+i.iCurrencyBitcoinCircle::before {
+  vertical-align: top;
+  content: "\EC15";
+}
+i.iCurrencyBitcoinSquare::before {
+  vertical-align: top;
+  content: "\EC16";
+}
+i.iCurrencyFranc::before {
+  vertical-align: top;
+  content: "\EC18";
+}
+i.iCurrencyFrancCircle::before {
+  vertical-align: top;
+  content: "\EC19";
+}
+i.iCurrencyFrancSquare::before {
+  vertical-align: top;
+  content: "\EC1A";
+}
+i.iCurrencyRuble::before {
+  vertical-align: top;
+  content: "\EC1C";
+}
+i.iCurrencyRubleCircle::before {
+  vertical-align: top;
+  content: "\EC1D";
+}
+i.iCurrencyRubleSquare::before {
+  vertical-align: top;
+  content: "\EC1E";
+}
+i.iCurrencyLira::before {
+  vertical-align: top;
+  content: "\EC20";
+}
+i.iCurrencyLiraCircle::before {
+  vertical-align: top;
+  content: "\EC21";
+}
+i.iCurrencyLiraSquare::before {
+  vertical-align: top;
+  content: "\EC22";
+}
+i.iCurrencyRupee::before {
+  vertical-align: top;
+  content: "\EC24";
+}
+i.iCurrencyRupeeCircle::before {
+  vertical-align: top;
+  content: "\EC25";
+}
+i.iCurrencyRupeeSquare::before {
+  vertical-align: top;
+  content: "\EC26";
+}
+
 i.iBrandPlaystore::before {
   vertical-align: top;
   content: "\F8E0";
