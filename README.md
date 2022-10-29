@@ -15,7 +15,7 @@ Min Icon is an icon font with various weights and styles. It supports variable f
 
 Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. 가변 폰트를 지원하여 원하는 스타일의 아이콘 세트로 커스텀하여 사용할 수 있습니다.<br>
 
-- 459 icons, 32 brand icons
+- 491 icons, 32 brand icons
 - 9 weights
 - 3 Variable Axes
 - Fill Style
