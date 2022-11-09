@@ -39,14 +39,14 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
 
     ```html
     <!-- MinIconRound Use -->
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-round.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css">
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-round.css"/>
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css"/>
     ```
 
     ```html
     <!-- MinIconSquare Use -->
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-square.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css">
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-square.css"/>
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css"/>
     ```
     
     <br>
