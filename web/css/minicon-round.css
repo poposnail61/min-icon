@@ -2,9 +2,13 @@
   font-family: "Min Icon VF";
   src: url("../fonts/variable/MinIconVF.woff2") format("woff2");
 }
+@font-face {
+  font-family: "Min Icon Brand";
+  src: url("../fonts/static/MinIconBrand.woff2") format("woff2");
+}
 
 i {
-  font-family: "Min Icon VF" !important;
+  font-family: "Min Icon VF", "Min Icon Brand" !important;
   font-size: 24px;
   font-weight: 700;
   line-height: 1;
