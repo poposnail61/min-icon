@@ -2,7 +2,7 @@
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
 <img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
-**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0.1/min-icon.zip)**
+**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v2.0.2/min-icon.zip)**
 
 **🔗 [Figma Commuity](https://www.figma.com/community/file/1102264404570708098/Min-Icon---Variable-icon-font)**
 <br><br><br>
@@ -39,14 +39,14 @@ css파일을 불러와 아이콘 폰트를 적용하여 사용합니다. 가변�
 
     ```html
     <!-- MinIconRound Use -->
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-round.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css">
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-round.css"/>
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css"/>
     ```
 
     ```html
     <!-- MinIconSquare Use -->
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-square.css">
-    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css">
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/minIcon-square.css"/>
+    <link rel="stylesheet" href="https://poposnail61.github.io/web/css/icon.css"/>
     ```
     
     <br>
