@@ -2,7 +2,7 @@
 <img src="https://github.com/poposnail61/MinIcon/blob/main/Cover.jpg?raw=true">
 <img src="https://github.com/poposnail61/MinIcon/blob/main/ani.gif?raw=true">
 
-**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v3.0/min-icon.zip)**
+**🔗 [Min Icon Download](https://github.com/poposnail61/min-icon/releases/download/v3.1/min-icon.zip)**
 
 **🔗 [Figma Commuity](https://www.figma.com/community/file/1102264404570708098/Min-Icon---Variable-icon-font)**
 <br><br><br>
@@ -15,7 +15,7 @@ Min Icon is an icon font with various weights and styles. It supports variable f
 
 Min Icon은 다양한 굵기와 스타일을 가진 아이콘 폰트입니다. 가변 폰트를 지원하여 원하는 스타일의 아이콘 세트로 커스텀하여 사용할 수 있습니다.<br>
 
-- 678 icons, 32 brand icons
+- 684 icons, 32 brand icons
 - 9 weights
 - 3 Variable Axes
 - Fill Style
