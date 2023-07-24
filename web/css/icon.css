@@ -1776,3 +1776,27 @@ i.iBrandYoutube::before {
   vertical-align: top;
   content: "\F8F5";
 }
+i.iAir::before {
+  vertical-align: top;
+  content: "\E180";
+}
+i.iBolt::before {
+  vertical-align: top;
+  content: "\E170";
+}
+i.iCloud::before {
+  vertical-align: top;
+  content: "\E174";
+}
+i.iLightBulb::before {
+  vertical-align: top;
+  content: "\E16C";
+}
+i.iRain::before {
+  vertical-align: top;
+  content: "\E17C";
+}
+i.iSnow::before {
+  vertical-align: top;
+  content: "\E178";
+}
