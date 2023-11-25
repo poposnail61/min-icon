@@ -1,6 +1,8 @@
 @font-face {
   font-family: "Min Icon VF";
-  src: url("../fonts/variable/MinIconVF.woff2") format("woff2");
+  src: url("../fonts/variable/MinIconVF.woff2") format("woff2-variations");
+  font-weight: 100 900;
+	font-style: normal;
 }
 @font-face {
   font-family: "Min Icon Brand";
